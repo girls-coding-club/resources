@@ -22,4 +22,5 @@ helpful tools and resources
 
 # job hunting/networking
 [hire tech ladies](http://www.hiretechladies.com/)
+
 [witchat slack](witchat.github.io)

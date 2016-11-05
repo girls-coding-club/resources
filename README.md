@@ -14,3 +14,7 @@ helpful tools and resources
 * [d3 v4 resources](http://d3indepth.com/)
 
 # ruby
+
+# free books!
+
+[list of free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)

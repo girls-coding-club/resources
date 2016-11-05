@@ -8,6 +8,7 @@ helpful tools and resources
 ## javascript
 
 ### d3.js 
-
+[d3 v4 resources](https://square.github.io/intro-to-d3/)
+[d3 v4 resources](http://d3indepth.com/)
 
 # ruby

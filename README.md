@@ -18,3 +18,8 @@ helpful tools and resources
 # free books!
 
 [list of free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+
+
+# job hunting/networking
+[hire tech ladies](http://www.hiretechladies.com/)
+[witchat slack](witchat.github.io)

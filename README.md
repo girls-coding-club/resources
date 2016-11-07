@@ -8,6 +8,7 @@ helpful tools and resources
 * [Programming for Everybody](https://www.coursera.org/learn/python)
 
 ## javascript
+* [js design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ### d3.js 
 * [d3 v4 resources](https://square.github.io/intro-to-d3/)

@@ -16,6 +16,9 @@ helpful tools and resources
 
 # ruby
 
+# c
+* [c for python programmers](http://www.toves.org/books/cpy/)
+
 # free books!
 
 [list of free books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
